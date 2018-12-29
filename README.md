@@ -20,12 +20,6 @@ Windows Calculator](https://www.microsoft.com/en-us/p/windows-calculator/9wzdncr
 
 * Run `RemoveOneDrive.bat`
 
-### CMD or PowerShell Mono Font
-
-* [msjhmono](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/cs-drag4ie9/msjhmono.zip) or 華康 OO 體
-* Title Bar > Right click > Properties > Font
-* (Untested) [Windows cmd Consolas](http://nkidtw-program.blogspot.com/2010/09/windows-cmd-consolas.html)
-
 ## *.reg
 
 ### Remove All user Folders in This **PC**
@@ -71,7 +65,7 @@ Windows Calculator](https://www.microsoft.com/en-us/p/windows-calculator/9wzdncr
 
 ## Apps
 
-### O&O ShutUp10
+### [O&O ShutUp10](https://www.oo-software.com/en/shutup10)
 
 1. [Download](https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe) and Run `OOSU10.exe`
 2. Actions > Apply only recommended settings > reboot
@@ -192,6 +186,12 @@ choco list --local-only
    1. [MapleStory](http://www.rw-designer.com/cursor-downloadset.php?id=original-maplestory-white)
    2. [滑鼠1.ani > aero_link.ani](http://www.mediafire.com/?fx92ogov01j47wg)
 2. Desktop > Right click > Personalize > Themes > Mouse cursor
+
+### CMD or PowerShell Mono Font
+
+* [msjhmono](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/cs-drag4ie9/msjhmono.zip) or 華康 OO 體
+* Title Bar > Right click > Properties > Font
+* (Untested) [Windows cmd Consolas](http://nkidtw-program.blogspot.com/2010/09/windows-cmd-consolas.html)
 
 
 ## Others
