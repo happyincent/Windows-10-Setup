@@ -76,7 +76,7 @@ Windows Calculator](https://www.microsoft.com/en-us/p/windows-calculator/9wzdncr
   * `C:\Windows\SysWOW64\calc.exe`
   * `C:\Windows\SysWOW64\zh-TW\calc.exe.mui`
 * Rename and Copy the files into the same path (`calc1.exe`, `calc1.exe.mui`)
-  * Type `calc` to find `calc1.exe` in the `SysWOW64` folder and Run it (for 0101) !
+  * Type `calc` to find `calc1.exe` in the `SysWOW64` folder and Run it !
 
 ### WSL Bash
 
@@ -197,7 +197,7 @@ choco list --local-only
 ## Others
 * [Make Windows 10’s File Explorer start in any folder you want](https://www.digitalcitizen.life/how-make-windows-10s-file-explorer-start-any-location-you-want)
 * [Switch between Static IP and DHCP](https://gist.github.com/happyincent/7318da7a88a3cfda0254d10b7d3a4dc8)
-* [SimpleHTTPAuthServer](https://github.com/tianhuil/SimpleHTTPAuthServer) (Python2)
+* [SimpleHTTPAuthServer](https://github.com/tianhuil/SimpleHTTPAuthServer)
 
 ## References
 
