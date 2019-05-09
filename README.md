@@ -101,6 +101,8 @@ Windows Calculator](https://www.microsoft.com/en-us/p/windows-calculator/9wzdncr
   * Copy [`flat-dange0.minttyrc`](https://github.com/dange0) into `wsl-terminal\etc\themes`
   * Title Bar > Right click > Properties > Select 
 
+#### [Windows Terminal](https://github.com/Microsoft/Terminal)
+
 ### [Chocolatey](https://chocolatey.org/)
 
 * [Installation](https://chocolatey.org/install#install-with-powershellexe)
@@ -178,7 +180,7 @@ choco list --local-only
 ### Background
 
 * [Poro](https://wallpapertag.com/wallpaper/full/a/2/b/631216-poro-wallpapers-1920x1080-ipad.jpg)
-* [BMO](http://i.imgur.com/GeZYrrO.png)
+* [BMO](https://i.imgur.com/wx7ZD0K.png)
 
 ### Cursors
 
@@ -196,6 +198,8 @@ choco list --local-only
 
 ## Others
 * [Make Windows 10’s File Explorer start in any folder you want](https://www.digitalcitizen.life/how-make-windows-10s-file-explorer-start-any-location-you-want)
+* [Restore the localized name for documents folder](https://superuser.com/questions/1172765/how-do-i-restore-the-localized-name-for-documents-folder-windows-10)
+* [Uninstall Printer Driver](https://www.tenforums.com/tutorials/101274-uninstall-printer-driver-windows-10-a.html)
 * [Switch between Static IP and DHCP](https://gist.github.com/happyincent/7318da7a88a3cfda0254d10b7d3a4dc8)
 * [SimpleHTTPAuthServer](https://github.com/tianhuil/SimpleHTTPAuthServer)
 
